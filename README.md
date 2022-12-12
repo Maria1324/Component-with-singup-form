@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/Maria1324/Component-with-singup-form))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://maria1324.github.io/Component-with-singup-form/))
 
 ## My process
 
