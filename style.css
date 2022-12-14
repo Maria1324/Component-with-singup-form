@@ -128,7 +128,7 @@ button:hover {
     background-color: hsl(154, 59%, 51%, 0.6);
 }
 
-button span {
+button {
     font-family: Poppins;
     font-size: 10px;
     letter-spacing: 1px;
